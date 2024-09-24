@@ -23,7 +23,7 @@ dotnet publish -c Release  -r win-x64 --sc --framework net8.0
 
 ### NodeJs
 
-To run the NodeJs sample
+To run the NodeJs sample using the compiled .Net 8.0 SDK
 
 1. Change to NodeJs source and install dependancies
 
@@ -40,7 +40,7 @@ node main.js
 
 ### Python
 
-To run the Python sample
+To run the Python sample using compiled .Net Standard 2.0
 
 1. Change to Python code and install dependancies
 
